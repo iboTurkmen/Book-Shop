@@ -1,0 +1,30 @@
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Debug\book Shop.exe.config
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Debug\book Shop.exe
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Debug\book Shop.pdb
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Debug\book Shop.xml
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Debug\book_Shop.FrmMain.resources
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Debug\book_Shop.FrmInfo.resources
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Debug\book_Shop.Resources.resources
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Debug\book Shop.vbproj.GenerateResource.cache
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Debug\book Shop.exe
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Debug\book Shop.xml
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Debug\book Shop.pdb
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Debug\DB.mdf
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Debug\DB_log.ldf
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Debug\book Shop.vbprojResolveAssemblyReference.cache
+C:\Users\ibo\Desktop\book Shop\book Shop\bin\Debug\book Shop.exe.config
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book Shop.exe
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book Shop.xml
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book Shop.pdb
+C:\Users\ibo\Desktop\book Shop\book Shop\bin\Debug\DB.mdf
+C:\Users\ibo\Desktop\book Shop\book Shop\bin\Debug\DB_log.ldf
+C:\Users\ibo\Desktop\book Shop\book Shop\bin\Debug\book Shop.exe
+C:\Users\ibo\Desktop\book Shop\book Shop\bin\Debug\book Shop.pdb
+C:\Users\ibo\Desktop\book Shop\book Shop\bin\Debug\book Shop.xml
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book Shop.vbprojResolveAssemblyReference.cache
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book_Shop.FrmInfo.resources
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book_Shop.Resources.resources
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book Shop.vbproj.GenerateResource.Cache
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book_Shop.FrmLogin.resources
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book_Shop.FrmMenu.resources
+C:\Users\ibo\Desktop\book Shop\book Shop\obj\Debug\book_Shop.FrmResult.resources

@@ -1,0 +1,13 @@
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Release\book Shop.exe.config
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Release\DB.mdf
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Release\DB_log.ldf
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Release\book Shop.exe
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Release\book Shop.pdb
+C:\Users\ibo\source\repos\book Shop\book Shop\bin\Release\book Shop.xml
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Release\book_Shop.FrmMain.resources
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Release\book_Shop.FrmInfo.resources
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Release\book_Shop.Resources.resources
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Release\book Shop.vbproj.GenerateResource.Cache
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Release\book Shop.exe
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Release\book Shop.xml
+C:\Users\ibo\source\repos\book Shop\book Shop\obj\Release\book Shop.pdb
